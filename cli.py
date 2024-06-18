@@ -56,6 +56,5 @@ while True:
 
     else:
         print("invalid input")
-print("bubye")
 
 
