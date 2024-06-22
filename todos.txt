@@ -1,6 +1,6 @@
 clean sofa
-turn off dishwasher
 place flipkart order
 buy onions
 buy tomatoes
 help someone
+change color
